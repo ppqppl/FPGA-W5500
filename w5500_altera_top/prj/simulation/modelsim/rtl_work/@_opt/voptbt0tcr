@@ -1,0 +1,164 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\xiangmu\09_w5500\w5500_altera_top\prj\simulation\modelsim
+T_opt
+V07z5TWhE?EVKcP1MHK]651
+04 12 4 work tb_w5500_top fast 0
+=1-00d8617a7cfa-63841c61-3c4-2c18
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vini_socket
+InDd9<36o1U1MQ=fKOab<d0
+V03<Z8[01KGoAjYzMM6?>L1
+Z1 dE:\xiangmu\09_w5500\w5500_altera_top\prj\simulation\modelsim
+w1669530304
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_socket.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_socket.v
+L0 14
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z4 !s92 -vlog01compat -work work +incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 =]RP>KJgilzD6ML7KeR@@1
+!s85 0
+!s108 1669602399.242000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_socket.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_socket.v|
+vini_w5500
+Ii>2Ugea<dM78LBMKG<^8^0
+Vb_nj2k:E@9QLPVN8G<L_H0
+R1
+w1669515330
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_w5500.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_w5500.v
+L0 11
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 WhHlCUaSOW2>6GY^SM8M;0
+!s85 0
+!s108 1669602398.598000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_w5500.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/ini_w5500.v|
+vsocket
+IHSBO:G_88KefDmMYIOmb=3
+VO71F;SYSRDOiJ=913M8DT0
+R1
+w1669602343
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/socket.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 :BgFTme_J5bhnmC4R;0?Y2
+!s85 0
+!s108 1669602399.474000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket.v|
+vsocket_txd
+ID2iIPDEg>cDHmgX;XGS9]2
+V>Z<oKG`J^idI;c8`^>f3Q0
+R1
+w1669601554
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket_txd.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/socket_txd.v
+L0 11
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 m^4aQO`nQ8GNm]_ZQJ_@=3
+!s85 0
+!s108 1669602399.672000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket_txd.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/socket_txd.v|
+vspi_drv
+IEf_ldNW2^R2EPJVY;_iZ^0
+V=IaEI[:og=[oQBLiN:_4k1
+R1
+w1669459565
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/spi_drv.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/spi_drv.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 0kog0_;QXLAbdnoAK@D]Y3
+!s85 0
+!s108 1669602398.333000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/spi_drv.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/spi_drv.v|
+vtask_sche
+IAiVdFOgSMcTISm6iIiLIG2
+V3Y`l^9El[eQ9=4FMZA1jQ3
+R1
+w1669389270
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/task_sche.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/task_sche.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 IL41nNYUJCNoMa@Xf`?Ff1
+!s85 0
+!s108 1669602398.838000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/task_sche.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/task_sche.v|
+vtb_w5500_top
+I?DPT`n;7laE@Q^@_GMIC21
+VTSF9Dee@P[;fSee<^B5TB2
+R1
+w1669293728
+8E:/xiangmu/09_w5500/w5500_altera_top/prj/../sim/tb_w5500_top.v
+FE:/xiangmu/09_w5500/w5500_altera_top/prj/../sim/tb_w5500_top.v
+L0 2
+R2
+r1
+31
+R3
+!i10b 1
+!s100 ]PfJEQIJ]U;AaJ@5_=6[d1
+!s85 0
+!s108 1669602399.908000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/prj/../sim/tb_w5500_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/prj/../sim|E:/xiangmu/09_w5500/w5500_altera_top/prj/../sim/tb_w5500_top.v|
+!s92 -vlog01compat -work work +incdir+E:/xiangmu/09_w5500/w5500_altera_top/prj/../sim -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vw5500_top
+IlZHf4zH1CmaVgKM3ZFHXW2
+V?KT>E>4;E7R?71YZi>U5M3
+R1
+w1669517375
+8E:/xiangmu/09_w5500/w5500_altera_top/hdl/w5500_top.v
+FE:/xiangmu/09_w5500/w5500_altera_top/hdl/w5500_top.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 >HHd2:LIZ@aJ<AjlYKgOi1
+!s85 0
+!s108 1669602399.021000
+!s107 E:/xiangmu/09_w5500/w5500_altera_top/hdl/w5500_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/xiangmu/09_w5500/w5500_altera_top/hdl|E:/xiangmu/09_w5500/w5500_altera_top/hdl/w5500_top.v|

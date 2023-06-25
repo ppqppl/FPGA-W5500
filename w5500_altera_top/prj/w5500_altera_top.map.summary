@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu Jun 08 10:28:43 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : w5500_altera_top
+Top-level Entity Name : w5500_altera_top
+Family : Cyclone IV E
+Total logic elements : 4,299
+    Total combinational functions : 2,205
+    Dedicated logic registers : 3,141
+Total registers : 3141
+Total pins : 7
+Total virtual pins : 0
+Total memory bits : 169,984
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

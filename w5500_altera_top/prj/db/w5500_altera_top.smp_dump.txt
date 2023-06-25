@@ -1,0 +1,22 @@
+
+State Machine - |w5500_altera_top|w5500_top:unw5500_top|spi_drv:unspi_drv|state
+Name state.RD_DAT state.END2 state.END1 state.WR_DAT state.WR_CMD state.WR_ADR state.PRE state.IDLE state.DLY 
+state.IDLE 0 0 0 0 0 0 0 0 0 
+state.PRE 0 0 0 0 0 0 1 1 0 
+state.WR_ADR 0 0 0 0 0 1 0 1 0 
+state.WR_CMD 0 0 0 0 1 0 0 1 0 
+state.WR_DAT 0 0 0 1 0 0 0 1 0 
+state.END1 0 0 1 0 0 0 0 1 0 
+state.END2 0 1 0 0 0 0 0 1 0 
+state.RD_DAT 1 0 0 0 0 0 0 1 0 
+state.DLY 0 0 0 0 0 0 0 1 1 
+
+State Machine - |w5500_altera_top|w5500_top:unw5500_top|task_sche:untask_sche|state
+Name state.SN_RX state.SN_TX state.STAND_BY state.INI_SN state.INI_WIC state.DLY state.IDLE 
+state.IDLE 0 0 0 0 0 0 0 
+state.DLY 0 0 0 0 0 1 1 
+state.INI_WIC 0 0 0 0 1 0 1 
+state.INI_SN 0 0 0 1 0 0 1 
+state.STAND_BY 0 0 1 0 0 0 1 
+state.SN_TX 0 1 0 0 0 0 1 
+state.SN_RX 1 0 0 0 0 0 1 
